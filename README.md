@@ -1,3 +1,5 @@
 # movie_blog_2023
 
-React JS Fundamentals Course 2023
+movie_review_blog 
+
+by react
